@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tutorial_1", "Tutorial_1", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample_1", "Sample_1\Sample_1.csproj", "{4FD2E840-F30B-45EA-91BF-9FAB4C87147C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tutorial_2", "Tutorial_2", "{B9F50B10-61D5-44A9-A7BD-1B307EE699D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sample_2_Routing_Javascript", "Sample_2_Routing_Javascript\Sample_2_Routing_Javascript.csproj", "{DF98129D-3CDA-4753-A17C-463DD9DEAB69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,11 +21,16 @@ Global
 		{4FD2E840-F30B-45EA-91BF-9FAB4C87147C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FD2E840-F30B-45EA-91BF-9FAB4C87147C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FD2E840-F30B-45EA-91BF-9FAB4C87147C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF98129D-3CDA-4753-A17C-463DD9DEAB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF98129D-3CDA-4753-A17C-463DD9DEAB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF98129D-3CDA-4753-A17C-463DD9DEAB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF98129D-3CDA-4753-A17C-463DD9DEAB69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{4FD2E840-F30B-45EA-91BF-9FAB4C87147C} = {C76ACECC-1A33-4D4E-B1C2-73CC8F4A1C85}
+		{DF98129D-3CDA-4753-A17C-463DD9DEAB69} = {B9F50B10-61D5-44A9-A7BD-1B307EE699D5}
 	EndGlobalSection
 EndGlobal
