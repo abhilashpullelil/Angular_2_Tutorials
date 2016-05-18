@@ -57,6 +57,52 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App\Pages\Contact\app.contact.component.js" />
+    <Content Include="App\Pages\Contact\app.contact.view.html" />
+    <Content Include="App\Pages\Home\app.home.component.js" />
+    <Content Include="App\Pages\Home\app.home.view.html" />
+    <Content Include="App\Pages\Portfolio\app.portfoio.component.js" />
+    <Content Include="App\Pages\Portfolio\app.portfolio.view.html" />
+    <Content Include="Theme\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="Theme\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Theme\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="Theme\font-awesome\fonts\FontAwesome.otf" />
+    <Content Include="Theme\font-awesome\less\bordered-pulled.less" />
+    <Content Include="Theme\font-awesome\less\core.less" />
+    <Content Include="Theme\font-awesome\less\fixed-width.less" />
+    <Content Include="Theme\font-awesome\less\font-awesome.less" />
+    <Content Include="Theme\font-awesome\less\icons.less" />
+    <Content Include="Theme\font-awesome\less\larger.less" />
+    <Content Include="Theme\font-awesome\less\list.less" />
+    <Content Include="Theme\font-awesome\less\mixins.less" />
+    <Content Include="Theme\font-awesome\less\path.less" />
+    <Content Include="Theme\font-awesome\less\rotated-flipped.less" />
+    <Content Include="Theme\font-awesome\less\spinning.less" />
+    <Content Include="Theme\font-awesome\less\stacked.less" />
+    <Content Include="Theme\font-awesome\less\variables.less" />
+    <Content Include="Theme\font-awesome\scss\font-awesome.scss" />
+    <Content Include="Theme\font-awesome\scss\_bordered-pulled.scss" />
+    <Content Include="Theme\font-awesome\scss\_core.scss" />
+    <Content Include="Theme\font-awesome\scss\_fixed-width.scss" />
+    <Content Include="Theme\font-awesome\scss\_icons.scss" />
+    <Content Include="Theme\font-awesome\scss\_larger.scss" />
+    <Content Include="Theme\font-awesome\scss\_list.scss" />
+    <Content Include="Theme\font-awesome\scss\_mixins.scss" />
+    <Content Include="Theme\font-awesome\scss\_path.scss" />
+    <Content Include="Theme\font-awesome\scss\_rotated-flipped.scss" />
+    <Content Include="Theme\font-awesome\scss\_spinning.scss" />
+    <Content Include="Theme\font-awesome\scss\_stacked.scss" />
+    <Content Include="Theme\font-awesome\scss\_variables.scss" />
+    <Content Include="Theme\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Theme\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Theme\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Theme\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="Theme\img\angular.png" />
+    <Content Include="Theme\less\freelancer.less" />
+    <Content Include="Theme\less\mixins.less" />
+    <Content Include="Theme\less\variables.less" />
+    <Content Include="Theme\mail\contact_me.php" />
+    <Content Include="Theme\README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -65,7 +111,36 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="App\Pages\About\app.about.component.js" />
+    <Content Include="App\Pages\About\app.about.view.html" />
+    <Content Include="App\app.component.js" />
+    <Content Include="App\app.view.html" />
+    <Content Include="App\boot.js" />
     <Content Include="Index.html" />
+    <Content Include="Theme\css\bootstrap.css" />
+    <Content Include="Theme\css\bootstrap.min.css" />
+    <Content Include="Theme\css\freelancer.css" />
+    <Content Include="Theme\font-awesome\css\font-awesome.css" />
+    <Content Include="Theme\font-awesome\css\font-awesome.min.css" />
+    <Content Include="Theme\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="Theme\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Theme\img\me.jpg" />
+    <Content Include="Theme\img\portfolio\cabin.png" />
+    <Content Include="Theme\img\portfolio\cake.png" />
+    <Content Include="Theme\img\portfolio\circus.png" />
+    <Content Include="Theme\img\portfolio\game.png" />
+    <Content Include="Theme\img\portfolio\safe.png" />
+    <Content Include="Theme\img\portfolio\submarine.png" />
+    <Content Include="Theme\img\profile.png" />
+    <Content Include="Theme\js\bootstrap.js" />
+    <Content Include="Theme\js\bootstrap.min.js" />
+    <Content Include="Theme\js\cbpAnimatedHeader.js" />
+    <Content Include="Theme\js\cbpAnimatedHeader.min.js" />
+    <Content Include="Theme\js\classie.js" />
+    <Content Include="Theme\js\contact_me.js" />
+    <Content Include="Theme\js\freelancer.js" />
+    <Content Include="Theme\js\jqBootstrapValidation.js" />
+    <Content Include="Theme\js\jquery.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
